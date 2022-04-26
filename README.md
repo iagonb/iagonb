@@ -2,7 +2,7 @@
 
 I'm a Bachelor's in Physics 🔭, currently finishing a master's degree in Applied Physics and an MBA in Data Science & Analytics 💻.
 
-I'm fascinated by complex problems and working on multidisciplinary problems 🧑‍🤝‍🧑. 
+I'm fascinated by complex problems and working on multidisciplinary projects 🧑‍🤝‍🧑. 
 
 Here you will find some of my recent studies using computational and analytical skills 😉. 
 
