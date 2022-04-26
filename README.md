@@ -4,7 +4,7 @@ I'm a Bachelor's in Physics 🔭, currently finishing a master's degree in Appli
 
 I'm fascinated by complex problems and working on multidisciplinary problems 🧑‍🤝‍🧑. 
 
-Here you find some of my recent studies using computational and analytical skills 😉. 
+Here you will find some of my recent studies using computational and analytical skills 😉. 
 
 <!--
 **iagonb/iagonb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
