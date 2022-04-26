@@ -2,21 +2,17 @@
 
 I'm a Bachelor's in Physics 🔭, currently finishing a master's degree in Applied Physics and an MBA in Data Science & Analytics 💻.
 
-I'm fascinated by complex problems and working on multidisciplinary projects 🧑‍🤝‍🧑. 
+I'm fascinated by complex problems and working on multidisciplinary projects 👯. 
 
 Here you will find some of my recent studies using computational and analytical skills 😉. 
 
-<!--
-**iagonb/iagonb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Tools
 
-Here are some ideas to get you started:
+Python | Fortran 90 | Linux | R | SQL | LaTeX
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Contact
+
+<div>
+<a href = "mailto:iagobarros42@gmail.com "><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/iago-barros-ba0ba614b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
