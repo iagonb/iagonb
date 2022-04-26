@@ -1,8 +1,10 @@
-### Hi, I'm Iago 👋 🧑‍💻
+### Hi, I'm Iago 👋 🧑‍
 
-I'm a Bachelor's in Physics 🔭, currently finishing a master's degree in Applied Physics and an MBA in Data Science & Analytics.
+I'm a Bachelor's in Physics 🔭, currently finishing a master's degree in Applied Physics and an MBA in Data Science & Analytics 💻.
 
-I'm fascinated by complex problems and working on multidisciplinary problems. 
+I'm fascinated by complex problems and working on multidisciplinary problems 🧑‍🤝‍🧑. 
+
+Here you find some of my recent studies using computational and analytical skills 😉. 
 
 <!--
 **iagonb/iagonb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
