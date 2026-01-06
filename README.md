@@ -1,10 +1,20 @@
 ### Hi, I'm Iago 👋 🧑‍
 
-I'm a Bachelor's in Physics 🔭, currently finishing a master's degree in Applied Physics and an MBA in Data Science & Analytics 💻.
+I'm a PhD candidate in Physics with a background in complex systems, statistical physics, and econophysics. My work sits at the intersection of theory, computation, and data science.
 
-I'm fascinated by complex problems and working on multidisciplinary projects 👯. 
+I’m particularly interested in stochastic processes, network-based models, and wealth/inequality dynamics, combining analytical approaches (SDEs, Fokker–Planck equations) with large-scale simulations in Python and C.
 
-Here you will find some of my recent studies using computational and analytical skills 😉. 
+Here you’ll find repositories related to:
+
+📊 Data Science & Analytics (risk, finance, and applied modeling)
+
+🔬 Agent-based and stochastic models
+
+🌐 Complex networks and emergent phenomena
+
+🧠 Bridging physics-inspired models with real-world data
+
+I enjoy tackling complex, multidisciplinary problems and turning theory into reproducible code 🚀
 
 🛠️ Tools
 
