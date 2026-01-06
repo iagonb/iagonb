@@ -12,8 +12,6 @@ Here you’ll find repositories related to:
 
 🌐 Complex networks and emergent phenomena
 
-🧠 Bridging physics-inspired models with real-world data
-
 I enjoy tackling complex, multidisciplinary problems and turning theory into reproducible code 🚀
 
 🛠️ Tools
