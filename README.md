@@ -2,7 +2,7 @@
 
 I'm a PhD candidate in Physics with a background in complex systems, statistical physics, and econophysics. My work sits at the intersection of theory, computation, and data science.
 
-I’m particularly interested in stochastic processes, network-based models, and economical phenomena, combining analytical approaches (SDEs, Fokker–Planck equations) with large-scale simulations in Python, C and Fortran.
+I’m particularly interested in stochastic processes, network and agent-based models, and economic phenomena, combining analytical approaches (SDEs, Fokker–Planck equations) with large-scale simulations in Python, C and Fortran.
 
 Here you’ll find repositories related to:
 
